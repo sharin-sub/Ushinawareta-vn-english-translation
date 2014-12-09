@@ -1,0 +1,7 @@
+#Subject: 2008.10.8
+
+
+*: jump storage="10_AA-05-10-01.txt" target=ˆ¤—‚Æ’²¸‚ÉŒü‚©‚¤
+
+:’²¸I—¹|
+*: jump storage="10_AA-05-20.txt"

@@ -1,0 +1,100 @@
+#Subject: 2008.10.8
+
+
+:プチ２|
+
+#Page-Id: 0
+【奏】
+「…………」
+
+*: BGM10 stop time=3000
+
+#Page-Id: 1
+オールドマン？　誰だ？
+そんな英国俳優みたいな名前の――
+
+#Page-Id: 2
+*: begintrans
+*: allchar 消
+*: 青空 昼
+*: endtrans fadenormal
+いや、待てよ？
+オールド・マン。
+
+#Page-Id: 3
+顧問の・オールド・マン・さん。
+
+
+*: ev_cut07a zoom=100 opacity=255 xpos=0 ypos=0 time=800 sync
+
+*: BGM10
+
+#Page-Id: 4
+【奏】
+「……顧問のじいさんじゃねぇか！
+　名前みたいに聞こえるんだよ、この野郎！」
+
+#Page-Id: 5
+*: ケニー 制服 ポーズl 腕強 目困る 口困る ギャグなし 顔
+#Voice-Id: F00268
+【ケニー】
+「らって……」
+
+#Page-Id: 6
+【奏】
+「口答えするな！
+　いきなり話が壮大になりかけただろうが！」
+
+#Page-Id: 7
+*: begintrans
+*: 天文学会部室 夕 fadenormal
+*: ケニー 制服 ポーズl 腕強 目困る 口困る ギャグなし 前 左 立
+*: 凪沙 制服 ポーズl 腕強 目怒る 口怒る ギャグなし 前 右 立
+*: endtrans fadenormal
+#Voice-Id: D00154
+【凪沙】
+「二人とも落ち着きなさい、愛理さんの話の途中よ」
+
+#Page-Id: 8
+【奏】
+「いや、でもですね――」
+
+#Page-Id: 9
+*: 凪沙 制服 ポーズc 腕強 目怒る 口怒る ギャグなし
+#Voice-Id: D00155
+【凪沙】
+「喚く登場人物は早死にするのが定石よ。
+　この意味が分かるなら静かになさい」
+
+#Page-Id: 10
+その瞬間、俺たちは揃って口を閉じた。
+
+#Page-Id: 11
+*: 凪沙 制服 ポーズl 腕強 目悲しむ 口悲しむ ギャグなし
+#Voice-Id: D00156
+【凪沙】
+「愛理さん、続きをお願い」
+
+#Page-Id: 12
+*: 愛理 制服 ポーズc 腕中 目苦笑 口強笑 ギャグなし 顔
+#Voice-Id: B00346
+【愛理】
+「ありがとう、凪沙さん」
+
+#Page-Id: 13
+愛理はささやかな会釈をすると、
+真剣な顔つきで俺たちの方へと向き直った。
+
+#Page-Id: 14
+*: allchar 消 fadenormal
+*: begintrans
+*: 愛理 制服 ポーズc 腕中 目まじめ 口まじめ ギャグなし 前 右 立
+*: endtrans fadenormal
+#Voice-Id: B00347
+【愛理】
+「まず噂の根源についてなんだけど、
+　先生によるとそんな話は思い当たらないって」
+
+*: jump cond="f.AA_05_10 == R愛理" storage="10_AA-05-10ai.txt" target=調査後分岐２
+*: jump cond="f.AA_05_10 == Rケニー" storage="10_AA-05-10ke.txt" target=調査後分岐２
+*: jump cond="f.AA_05_10 == Rゆい" storage="10_AA-05-10yu.txt" target=調査後分岐２

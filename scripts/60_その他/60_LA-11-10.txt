@@ -1,0 +1,650 @@
+#Subject: 2008.10.14_y
+
+*: initscene
+
+*: アイキャッチ表示 num=9 route=&RＬ１
+
+
+
+#Page-Id: 0
+*: ゆいの部屋 昼 fadenormal sync
+*: se0224 fade=0
+*: se0224 fade=90 time=1000
+*: BGM11
+１０月１４日、はじまりと終わりの日――
+
+#Page-Id: 1
+とても風の強い日だった。
+
+#Page-Id: 2
+神経は鋭く張り詰めている。
+
+#Page-Id: 3
+痛々しい表現をしてしまうのであれば、
+それは限界まで膨らんだ風船のようだった。
+
+#Page-Id: 4
+鏡の前、いつも通りに袖に腕を通し、リボンを結ぶ。
+
+#Page-Id: 5
+*: se0224 stop=1500
+そして、私はそれまでお世話になった部屋に、
+深々と頭を下げた。
+
+#Page-Id: 6
+*: ゆい 制服 ポーズl 腕弱 目まじめ 口まじめ ギャグなし 顔
+#Voice-Id: C10295
+【ゆい】
+「いってきます」
+
+*: msgoff
+*: beginskip
+*: bg_w fadeslow nosync
+*: wait time=1000
+*: se0043
+*: wait time=1200
+*: 青空 fadenormal sync
+*: endskip
+
+#Page-Id: 7
+もう何も考えることはない。
+
+#Page-Id: 8
+ただ佳織さんを因果から解き放つだけ。
+
+#Page-Id: 9
+結局、私ができることは一つしかないのだから――
+
+*: BGM11 stop time=3000
+*: msgoff
+*: 夕空 fadenormal sync
+*: wait time=1500
+
+*: 学校外観 夕 fadenormal sync
+*: wait time=500
+
+#Page-Id: 10
+*: ゆい 制服 ポーズc 腕弱 目驚く 口まじめ ギャグなし 顔
+#Voice-Id: C10296
+【ゆい】
+「あ……」
+
+#Page-Id: 11
+支倉さんに学会を休むことを伝え、
+私は校門の横に身を潜めて、佳織さんを待っていた。
+
+#Page-Id: 12
+*: ゆい 制服 ポーズr 腕弱 目まじめ 口弱笑 ギャグなし 顔
+#Voice-Id: C10297
+【ゆい】
+「よかった……」
+
+#Page-Id: 13
+そして、ホッと胸を撫で下ろした。
+
+#Page-Id: 14
+私の知らない現在となってしまったここでは、
+佳織さんの行動が分からなかったからだ。
+
+#Page-Id: 15
+*: BGM19
+買い物に行くとは聞いていた。
+しかし、それがいつになるのかが……
+
+#Page-Id: 16
+もしも、早く出かけられてしまったら――
+
+#Page-Id: 17
+もしも、この校門を通らなかったら――
+
+#Page-Id: 18
+故に、これは私にとって一つの賭けだったのだ。
+
+#Page-Id: 19
+*: ゆい 制服 ポーズr 腕弱 目怒る 口まじめ ギャグなし 顔
+#Voice-Id: C10298
+【ゆい】
+「…………」
+
+#Page-Id: 20
+*: se0023a fade=80
+そして、私は坂を下っていく佳織さんの背中を
+ゆっくりと追い始めた。
+
+#Page-Id: 21
+私の想像では、佳織さんはこのままバス停に向かい、
+そこにバスが突っ込んでくる。
+
+#Page-Id: 22
+*: ゆい 制服 ポーズl 腕弱 目まじめ 口まじめ ギャグなし 顔
+#Voice-Id: C10299
+【ゆい】
+「落ち着いてやれば、大丈夫……」
+
+#Page-Id: 23
+もう、奏の助けはない。
+私が一人でやるしかないのだ。
+
+#Page-Id: 24
+こんなことを言えば「棚上げ」なんて怒るだろうけど、
+私は自分の身を犠牲にするつもりだった。
+
+#Page-Id: 25
+最悪、自分の身体をクッションにしてでも、
+佳織さんの身を守るつもりだった。
+
+#Page-Id: 26
+だから、私は佳織さんに気付かれないよう、
+そっと後ろからついていった。
+
+*: 窓消暗転
+
+
+*: se0023a stop=300
+*: 海沿いの道 夕 fadenormal sync
+
+#Page-Id: 27
+ほどなくして、佳織さんはバス停に辿り着いた。
+
+#Page-Id: 28
+私はその時間を確認する。
+
+#Page-Id: 29
+間もなく、バスがやってくる――
+
+#Page-Id: 30
+*: ゆい 制服 ポーズr 腕弱 目怒る 口まじめ ギャグなし 顔
+#Voice-Id: C10300
+【ゆい】
+「…………」
+
+#Page-Id: 31
+その事故を防げば、私はこの世界から消え去る。
+
+#Page-Id: 32
+*: ゆい 制服 ポーズr 腕弱 目悲しむ 口まじめ ギャグなし 顔
+#Voice-Id: C10301
+【ゆい】
+「今、余計なことを考えてはいけない……」
+
+#Page-Id: 33
+私は頭を振って、その考えを振り払う。
+
+#Page-Id: 34
+後は……実際に行動するだけ。
+
+#Page-Id: 35
+*: BGM19 stop=3000
+*: ゆい 制服 ポーズl 腕弱 目悲しむ 口まじめ ギャグなし 顔
+#Voice-Id: C10302
+【ゆい】
+「………………」
+
+#Page-Id: 36
+しかし――
+
+#Page-Id: 37
+再び周囲を確認しながら、
+私は妙な違和感に襲われた。
+
+#Page-Id: 38
+最初は気のせいかと思ったが、
+その違和感はどんどんと強くなっていく。
+
+#Page-Id: 39
+*: BGM21
+*: ゆい 制服 ポーズr 腕弱 目苦笑 口悲しむ ギャグなし 顔
+#Voice-Id: C10303
+【ゆい】
+「どうして……」
+
+#Page-Id: 40
+どうしてバスが来ないのか。
+
+#Page-Id: 41
+既に暴走したバスが姿を現す時間だというのに――
+
+#Page-Id: 42
+そう思った瞬間だった。
+私の目にバスの姿が入った。
+
+#Page-Id: 43
+しかし、そのバスは前の車のアクシデントで停車し、
+進行してくる気配すら見られなかった。
+
+#Page-Id: 44
+*: ゆい 制服 ポーズr 腕弱 目悲しむ 口悩む ギャグなし 顔
+#Voice-Id: C10304
+【ゆい】
+「まさか、ここまで未来が……」
+
+#Page-Id: 45
+私の知っている事象とは、
+まったく違うことが起こっている。
+
+#Page-Id: 46
+確かに未来が変わることはあった。
+
+#Page-Id: 47
+だけど……これほどに大きく変わったことはなかった。
+
+#Page-Id: 48
+……事故が、起こらない？
+
+#Page-Id: 49
+*: ゆい 制服 ポーズc 腕弱 目悲しむ 口まじめ ギャグなし lipopento 顔
+#Voice-Id: C10305
+【ゆい】
+「そんなことは……因果がそんなに容易く――」
+
+#Page-Id: 50
+私は精神を集中させると、
+どんな小事も見逃さないよう、周囲を観察し始めた。
+
+#Page-Id: 51
+必ず、事故の予兆がどこかに――
+
+#Page-Id: 52
+でも、どこにもおかしいところなんて――
+
+*: BGM21 stop time=3000
+*: se0209
+
+#Page-Id: 53
+*: ゆい 制服 ポーズl 腕弱 目驚く 口まじめ ギャグなし 顔
+#Voice-Id: C10306
+【ゆい】
+「……っ！」
+
+#Page-Id: 54
+風が、吹いた。
+
+#Page-Id: 55
+まるで私のことをあざ笑うかのように、
+強く身体に吹きつけ、この制服をはためかせた。
+
+#Page-Id: 56
+*: ゆい 制服 ポーズr 腕弱 目驚く 口まじめ ギャグなし lipopento 顔
+#Voice-Id: C10307
+【ゆい】
+「…………えっ！？」
+
+#Page-Id: 57
+思わず目を閉じかけ、私は気付いた。
+
+#Page-Id: 58
+*: ゆい 制服 ポーズr 腕弱 目苦笑 口まじめ ギャグなし lipopento 顔
+#Voice-Id: C10308
+【ゆい】
+「そんな――」
+
+#Page-Id: 59
+線路を挟んだ山側の斜面、
+そこに工事中のクレーン車が置かれている。
+
+#Page-Id: 60
+そのクレーンが、不安定にぐらぐらと揺れ、
+今にも倒れてしまいそうに――
+
+#Page-Id: 61
+分からない、可能性でしかない。
+
+#Page-Id: 62
+だけど……奏ならこう言う。
+
+#Page-Id: 63
+『そこに可能性があるなら、やるしかないだろ！』
+
+#Page-Id: 64
+*: ゆい 制服 ポーズr 腕弱 目怒る 口まじめ ギャグなし 顔
+#Voice-Id: C10309
+【ゆい】
+「っ！！」
+
+*: se0024a
+*: BGM18
+*: begintrans
+*: bg_b 昼
+*: endtrans uni rule="こすり（左から右）.png" time=400 vague=255
+
+#Page-Id: 65
+次の瞬間、私は弾かれたように走り出した。
+
+#Page-Id: 66
+これは最悪、最悪、最悪です！
+
+*: begintrans
+*: 夕空 夕
+*: endtrans uni rule="こすり（左から右）.png" time=400 vague=255
+
+#Page-Id: 67
+私は頭の中にそのイメージを生み出した。
+
+#Page-Id: 68
+もし、バスが走り出したときにクレーンが倒れたら――
+
+#Page-Id: 69
+そんな薄い可能性にかけるのは、間違いかもしれない。
+
+#Page-Id: 70
+だけど、私の相手は因果だ。
+
+*: begintrans
+*: bg_b 昼
+*: endtrans uni rule="こすり（左から右）.png" time=400 vague=255
+
+#Page-Id: 71
+そこに可能性があるのなら、
+私はそれを排除する必要がある。
+
+#Page-Id: 72
+*: ゆい 無
+#Voice-Id: C10310
+【ゆい】
+「くっ……！」
+
+#Page-Id: 73
+線路を越え、無理矢理に柵を乗り越える。
+
+#Page-Id: 74
+私は急斜面を転びそうになりながらも走り続けた。
+
+*: begintrans
+*: 工事現場 夕 zoom=250 xpos=-1100 ypos=400
+*: endtrans uni rule="こすり（左から右）.png" time=400 vague=255
+
+#Page-Id: 75
+*: se0024a stop=100
+#Voice-Id: C10311
+【ゆい】
+「あのっ、クレーンが！」
+
+#Page-Id: 76
+やっとのことでクレーン車の元に辿り着き、
+運転席へと叫ぶように声をかけた。
+
+*: bg_b 昼 fadefast reset
+
+#Page-Id: 77
+しかし、そこには誰もおらず、
+無人の座席が広がるばかりだった。
+
+#Page-Id: 78
+#Voice-Id: C10312
+【ゆい】
+「どうして……」
+
+#Page-Id: 79
+私は目の前に刹那の闇を感じた。
+
+#Page-Id: 80
+#Voice-Id: C10313
+【ゆい】
+「とにかく、なんとかしな――」
+
+#Page-Id: 81
+*: se0133a
+*: フラッシュ・短
+*: quake time=300 hmax=5 vmax=5
+#Voice-Id: C10314
+【ゆい】
+「あぐぅっ！！」
+
+#Page-Id: 82
+*: se0133b
+一瞬、何が起きたのか理解できなかった。
+
+#Page-Id: 83
+とてつもない衝撃に、身体が吹っ飛ばされる。
+
+#Page-Id: 84
+*: begintrans
+*: 夕空 夕
+*: endtrans uni rule="こすり（左から右）.png" time=400 vague=255
+ゴロゴロと地面を転がる私の視界に、
+先ほどよりも大きく揺れるクレーンが目に入る。
+
+#Page-Id: 85
+その先端が、赤く濡れていることに気づいた……。
+*: se0225 fade=0
+*: se0225 fade=90 time=1500
+
+#Page-Id: 86
+#Voice-Id: C10315
+【ゆい】
+「うっ、あっあぁぁ……！」
+
+#Page-Id: 87
+同時に、凄まじいまでの痛みが腕を襲う。
+
+#Page-Id: 88
+クレーンの一撃を受けたのだと気づくまでに、
+そう時間はかからなかった。
+
+#Page-Id: 89
+#Voice-Id: C10316
+【ゆい】
+「はっ、はぁはぁっ……」
+
+#Page-Id: 90
+ガクガクと震える膝、
+無理矢理に力を込め立ち上がる。
+
+#Page-Id: 91
+ちらりとバスを確認すれば、
+先ほどと同じ位置に停止したままだった。
+
+#Page-Id: 92
+間違いない……このクレーンが、事故の原因だ。
+
+#Page-Id: 93
+これが最悪のタイミングで倒れて、
+事故の原因を生み出すのだ。
+
+#Page-Id: 94
+#Voice-Id: C10317
+【ゆい】
+「絶対に、そんなこと……」
+
+*: 暗転
+
+#Page-Id: 95
+だらだらと零れ落ちる血から、
+気力も何もかもこぼれ落ちているかのようだった。
+
+*: begintrans
+*: bg_w 昼
+*: endtrans time=300
+
+*: begintrans
+*: 天文学会部室 夕 zoom=120 grayscale=true
+*: 佳織 制服 ポーズc 腕強 目強笑 口弱笑 ギャグなし 前 xpos=-780 ypos=-150  立 front eyeopen grayscale=true
+*: ケニー 制服 ポーズb 腕弱 目強笑 口強笑 ギャグなし 前  xpos=-420 立 back eyeopen grayscale=true
+*: 愛理 制服 ポーズl 腕中 目強笑 口弱笑 ギャグなし 前  xpos=650 ypos=-150 立 front eyeopen grayscale=true
+*: 凪沙 制服 ポーズl 腕中 目呆れ 口弱笑 ギャグなし 前  xpos=-110 ypos=-150 立  front eyeopen grayscale=true
+*: 奏 制服 ポーズl 腕強 目苦笑 口弱笑 ギャグなし 前  xpos=180 立 back eyeopen grayscale=true
+*: endtrans fadenormal
+
+#Page-Id: 96
+だけど、諦めない。
+
+*: begintrans
+*: allchar 消
+*: bg_w 昼
+*: endtrans time=300
+
+*: begintrans
+*: 天文学会部室 夕 zoom=320 ypos=850 grayscale=true
+*: ケニー 制服 ポーズl 腕弱 目悲しむ 口強笑 eyecloseto ギャグなし  手前 zoom=130 xpos=-670 ypos=-680 立 back eyeopen grayscale=true
+*: 奏 制服 ポーズl 腕弱 目強笑 口弱笑 eyecloseto lipopento  ギャグなし 手前 zoom=130 中 ypos=-1030 立 front grayscale=true
+*: 愛理 制服 ポーズr 腕中 目強笑 口弱笑 ギャグなし xpos=700  手前 zoom=132 ypos=-1030 front eyeopen grayscale=true
+*: 凪沙 制服 ポーズc 腕中 目呆れ 口弱笑 ギャグなし xpos=-280  手前 zoom=132 ypos=-1350 立  front eyeopen grayscale=true
+*: endtrans fadenormal
+
+#Page-Id: 97
+絶対に諦めてあげない。
+
+*: begintrans
+*: bg_w reset grayscale=false fadenormal
+*: allchar 消 reset grayscale=false
+*: endtrans time=300
+*: begintrans
+*: 夕空 夕 fadenormal
+*: endtrans fadenormal
+
+
+#Page-Id: 98
+今にも倒れそうになりながら、
+それでも私はクレーンを睨みつけた。
+
+#Page-Id: 99
+#Voice-Id: C10318
+【ゆい】
+「私……は……負けない！
+　因果なんかに、負けたりしない！」
+
+#Page-Id: 100
+未だ吹き続ける風に、
+その先端が危うげに揺れていた。
+
+#Page-Id: 101
+それなら斜面の上から――
+
+#Page-Id: 102
+#Voice-Id: C10319
+【ゆい】
+「上……ううん、下っ！」
+*: bg bg_b 夕 trans=uni rule="こすり（左から右）.png" time=200 vague=255 delayrun=ラベル0
+
+
+#Page-Id: 103
+私はあえて斜面の下側にもぐりこみ、
+クレーンの車体に身体を押し当てた。
+
+*: ev_cc25_01 fadenormal
+
+#Page-Id: 104
+#Voice-Id: C10320
+【ゆい】
+「やっぱり――」
+
+#Page-Id: 105
+ここなら車体の傾きで、
+見なくてもクレーンの位置が分かる。
+
+#Page-Id: 106
+そして、クレーンが揺れるタイミングに合わせ、
+一気に車体を押し上げてから……
+
+#Page-Id: 107
+#Voice-Id: C10321
+【ゆい】
+「くっ……」
+
+#Page-Id: 108
+チャンスは一度だけ。
+
+#Page-Id: 109
+絶対に失敗するわけにはいかない。
+
+#Page-Id: 110
+因果の生み出そうとしているタイミングを、
+私が……この手で打ち砕いてみせる。
+
+#Page-Id: 111
+私は押し当てた身体に神経を集中させ、
+揺れ続けるクレーンの動きを頭に描いた。
+
+#Page-Id: 112
+１回、２回、３回――
+
+#Page-Id: 113
+大時計のように、振り子運動を繰り返し、
+傾斜に向けてクレーンがゆらゆらと揺れている。
+
+#Page-Id: 114
+*: se0225 stop=1500
+*: se0226
+#Voice-Id: C10322
+【ゆい】
+「今っ！」
+
+#Page-Id: 115
+クレーンが山側に行く際に、
+身体を使って最大限まで車体を押し上げる。
+
+#Page-Id: 116
+*: ev_cc25_02 fadenormal
+*: quake time=300 hmax=10 vmax=10
+#Voice-Id: C10323
+【ゆい】
+「あああぁぁぁあぁあああっ！！」
+
+#Page-Id: 117
+腕の痛みも、
+全身が悲鳴のように軋みを上げるのも無視する。
+
+#Page-Id: 118
+私は、負けない。
+
+#Page-Id: 119
+みんなの笑顔のために。
+
+#Page-Id: 120
+本来あるべきはずだった、失われた未来のために。
+
+#Page-Id: 121
+すべてを、取り戻すために――
+
+#Page-Id: 122
+そして、クレーンがこちらに揺れ戻る瞬間。
+
+#Page-Id: 123
+*: BGM18 stop=6000
+*: quake time=1000 hmax=10 vmax=10
+#Voice-Id: C10324
+【ゆい】
+「うああああぁぁぁああっ！」
+
+*: 暗転
+
+
+#Page-Id: 124
+私は車体のアームを掴み、
+無理矢理にこちら側へと引き倒す。
+
+#Page-Id: 125
+そうして……クレーン車が、
+ゆっくり、ゆっくりと倒れてくる。
+*: se0226 stop=1000
+
+*: 夕空 夕 fadenormal
+
+#Page-Id: 126
+バスは――
+
+#Page-Id: 127
+――まだ、発車していない。
+
+#Page-Id: 128
+*: se0227 delayrun=300
+*: msgoff
+*: wait time=700
+*: bg_w fadefast delayrun=2000
+*: bg_b fadefast delayrun=2050
+*: bg_w fadefast delayrun=2100
+*: bg_b fadenormal delayrun=2200
+自分に向かって倒れてくるクレーンの隙間から、
+私はその光景を穏やかな目で眺めていた――
+
+*: msgoff fadeslow
+*: wait time=1500
+*: delaydone 
+
+*: bg_b fadenormal sync
+
+*: staffroll name=c bgm=BGM_ED1 movie=a
+
+*: 終端
+
+*: jump storage="60_LA-11-20.txt"

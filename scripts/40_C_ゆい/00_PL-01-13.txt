@@ -1,0 +1,8 @@
+#Subject: 2008.10.1'''
+
+
+*: eval exp="f.episode = Rゆい"
+*: initscene
+*: シナリオ引用 sto="00_PL-01-10.txt" tag="00_PL-01-13-00" retsto="00_PL-01-13.txt" rettag="ret00"
+:ret00|
+*: jump storage="00_PL-01-23.txt"

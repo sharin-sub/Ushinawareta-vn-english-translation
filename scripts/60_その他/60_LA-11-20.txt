@@ -1,0 +1,165 @@
+#Subject: 2008.10.14_y
+
+*: initscene
+
+
+*: bg_b fadenormal sync
+*: ゆい 無
+
+#Page-Id: 0
+*: ev_cc07_01 fadenormal sync
+#Voice-Id: C10325
+【ゆい】
+「……………」
+
+#Page-Id: 1
+#Voice-Id: C10326
+【ゆい】
+「……ここ、は？」
+
+#Page-Id: 2
+ふわふわと、まるで身体が、
+宙を漂っているような浮遊感――
+
+#Page-Id: 3
+意識は朦朧としていて、
+上手く考えがまとまらない――
+
+#Page-Id: 4
+#Voice-Id: C10327
+【ゆい】
+「でも……私、確か……佳織さんの事故を……」
+
+#Page-Id: 5
+*: ev_cc07_01 trans=mosaic maxsize=26 time=500
+そこまで呟くと、
+脳裏に揺れるクレーン車の姿が浮かび上がった。
+
+#Page-Id: 6
+そうだ……私はクレーン車の――
+
+#Page-Id: 7
+#Voice-Id: C10328
+【ゆい】
+「どう……なったんだろう？」
+
+#Page-Id: 8
+確かめたいのに、
+身体が頑として言うことを聞いてくれなかった。
+
+#Page-Id: 9
+それに何より、目を開けているはずなのに、
+辺りが暗くて仕方がない。
+
+#Page-Id: 10
+*: ev_cc07_03 fadenormal sync
+#Voice-Id: C10329
+【ゆい】
+「もう……夜になってしまったんでしょうか……」
+
+#Page-Id: 11
+あれから、どれほど時間が経ったのか。
+
+#Page-Id: 12
+身体は酷く疲れ切っていた。
+
+#Page-Id: 13
+*: ev_cc07_02 fadenormal sync
+#Voice-Id: C10330
+【ゆい】
+「ああ、そうか……そうなんですね……」
+
+#Page-Id: 14
+そして、私は気づいた。
+
+#Page-Id: 15
+きっと事故は防げたのだ、と。
+
+#Page-Id: 16
+*: ev_cc07_02 trans=mosaic maxsize=26 time=500
+その証拠に、指先の感覚がなくなってきていた――
+
+#Page-Id: 17
+*: ev_cc07_01 fadenormal sync
+#Voice-Id: C10331
+【ゆい】
+「どうして……最後に意識を戻すなんて、
+　こんな残酷なことを……」
+
+#Page-Id: 18
+*: ev_cc07_01 trans=mosaic maxsize=26 time=200
+憎むなら、頑丈に作られた、
+自分の身体を憎むべきだろうか。
+
+#Page-Id: 19
+*: ev_cc07_02 fadenormal sync
+#Voice-Id: C10332
+【ゆい】
+「ふふっ……」
+
+#Page-Id: 20
+*: ev_cc07_01 trans=mosaic maxsize=26 time=1000
+まるで……奏のようなことを言ってしまったと、
+自分でおかしくなってしまった。
+
+#Page-Id: 21
+#Voice-Id: C10333
+【ゆい】
+「……私、勝ったんですよね」
+
+#Page-Id: 22
+*: ev_cc07_01 trans=mosaic maxsize=26 time=500
+因果に……そして、弱かった自分に……
+
+#Page-Id: 23
+#Voice-Id: C10334
+【ゆい】
+「不思議……です……あんなに怖かったのに……」
+
+#Page-Id: 24
+消え去ることが怖かった。
+
+#Page-Id: 25
+*: ev_cc07_01 trans=mosaic maxsize=26 time=500
+みんなの記憶から、
+奏の記憶から消えることが怖かった。
+
+#Page-Id: 26
+でも、今は……これで良かったのだと心から思える。
+
+#Page-Id: 27
+*: ev_cc07_04 fadenormal sync
+#Voice-Id: C10335
+【ゆい】
+「……ああ、でも、最後に……」
+
+#Page-Id: 28
+*: ev_cc07_04 trans=mosaic maxsize=26 time=500
+みんなの、笑顔を、もう一度、見たかった――
+
+#Page-Id: 29
+*: ev_cc07_04 trans=mosaic maxsize=26 time=300
+*: wait time=10
+*: ev_cc07_04 trans=mosaic maxsize=26 time=300
+奏に、よくやった、て、あ、たま、なで、て――
+
+#Page-Id: 30
+*: ev_cc07_04 trans=mosaic maxsize=26 time=300
+き、と、ほめ、てくれ……ます……よ、ね――
+
+#Page-Id: 31
+#Voice-Id: C10336
+【ゆい】
+「そ……う……」
+
+*: ev_cc07_04 trans=mosaic maxsize=26 time=1000 wait
+
+*: 終端
+
+*: jump cond="f.L1toL2==true" storage="00_2H-01-l1.txt"
+*: jump storage="00_1B-01-l1.txt"
+
+
+
+
+

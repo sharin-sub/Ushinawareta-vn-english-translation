@@ -1,0 +1,232 @@
+#Subject: 2008.10.14'''
+
+*: initscene
+
+
+
+*: 学校前・坂道 夕 fadenormal
+*: wait time=1000
+
+#Page-Id: 0
+【奏】
+「ゆいっ」
+
+#Page-Id: 1
+数歩分前を歩いていた俺は、
+校門を曲がったところで佳織の背中を捉えた。
+
+#Page-Id: 2
+*: BGM18
+【奏】
+「……見つけた、佳織だ！」
+
+*: se0020c
+*: wait time=500
+
+#Page-Id: 3
+*: ゆい 制服 ポーズc 腕中 目怒る 口まじめ ギャグなし 顔
+#Voice-Id: C01170
+【ゆい】
+「はいっ」
+
+#Page-Id: 4
+*: ゆい ポーズb 目まじめ 口まじめ ギャグなし 前 立 sync
+歩幅の分だけ遅れ始めていたゆいが、
+俺の横に小走りで追いついた。
+
+#Page-Id: 5
+【奏】
+「俺はどうすればいい？」
+
+
+#Page-Id: 6
+*: ゆい x目悲しむ
+#Voice-Id: C01171
+【ゆい】
+「それは私にも分かりません。
+　事故が発生する時刻は、ある程度前後しますから」
+
+#Page-Id: 7
+*: ゆい x目驚く
+#Voice-Id: C01172
+【ゆい】
+「ただ、私の知っている限りでは、
+　佳織さんの乗ったバスが横転するはずです」
+
+#Page-Id: 8
+【奏】
+「だったら、バスに乗るのをギリギリで止めるか」
+
+
+#Page-Id: 9
+*: ゆい x目焦る
+#Voice-Id: C01173
+【ゆい】
+「はい、私はそのつもりでした」
+
+#Page-Id: 10
+ゆいは佳織から目を放さずに頷いた。
+
+#Page-Id: 11
+【奏】
+「それなら少し急ごう。
+　あそこはバスが来る時間がまちまちだ」
+
+#Page-Id: 12
+*: ゆい x目悩む
+#Voice-Id: C01174
+【ゆい】
+「はいっ」
+
+#Page-Id: 13
+*: se0020c
+*: begintrans
+*: allchar 消
+*: 夕空 昼 fadenormal
+*: endtrans fadenormal
+俺たちは佳織が国道へ出たのを確認してから、
+坂という好条件を一気に駆け抜けた。
+
+
+*: ev_aa18_01 fadenormal sync
+
+#Page-Id: 14
+【奏】
+「ゆいっ！」
+
+#Page-Id: 15
+*: ゆい 無
+#Voice-Id: C01175
+【ゆい】
+「はい、佳織さんを止めて下さい！」
+
+#Page-Id: 16
+*: se0025a
+【奏】
+「分かった」
+
+#Page-Id: 17
+俺は坂を下った勢いを殺さないよう、
+道路に飛び出すのもお構いなしで角を曲がった。
+
+#Page-Id: 18
+【奏】
+「くっ、あのバスか……」
+
+
+#Page-Id: 19
+だけど、この距離なら――
+
+#Page-Id: 20
+#Voice-Id: C01176
+【ゆい】
+「え……」
+
+
+#Page-Id: 21
+全力で駆け抜ける背中に、ゆいの声がわずかに届く。
+
+#Page-Id: 22
+#Voice-Id: C01177
+【ゆい】
+「未来が……」
+
+
+#Page-Id: 23
+間に合う！　大丈夫だっ！
+
+#Page-Id: 24
+#Voice-Id: C01178
+【ゆい】
+「奏っ！　捻れています！」
+
+
+#Page-Id: 25
+【奏】
+「えっ？」
+
+#Page-Id: 26
+*: se0025a stop=400
+*: bg_b trans=uni rule=こすり（左から右） vague=128 time=400
+俺は瞬時にゆいを振り返った。
+
+
+#Page-Id: 27
+#Voice-Id: C01179
+【ゆい】
+「バスのスピードが！」
+
+#Page-Id: 28
+その指先が指し示すもの――
+
+#Page-Id: 29
+*: フラッシュバック file=bg_b
+バス――
+
+#Page-Id: 30
+*: フラッシュバック file=bg_b
+運転手――
+
+#Page-Id: 31
+*: フラッシュバック file=bg_b
+その表情――
+
+#Page-Id: 32
+どうしてカーブであんなスピードを出しているのか――
+
+*: ev_aa18_01 trans=uni rule=こすり（左から右） vague=128 time=400
+
+#Page-Id: 33
+【奏】
+「佳織っ！」
+
+#Page-Id: 34
+喉なんて裂けてもいい。
+この声が佳織に届くなら――
+
+#Page-Id: 35
+【奏】
+「佳織～～～～～～～～～っ！！！」
+
+
+*: ev_aa18_02 fadenormal sync
+
+#Page-Id: 36
+【奏】
+「逃げろ！」
+
+
+*: ev_aa18_03 fadenormal sync
+
+
+#Page-Id: 37
+【奏】
+「佳織っ！！！」
+
+*: msgoff time=100
+*: BGM18 stop=100
+
+*: フラッシュバック file=ev_aa18_04
+*: wait time=500
+
+*: フラッシュバック file=ev_aa18_04 zoom=115 xpos=-40 ypos=40
+*: wait time=600
+
+*: フラッシュバック file=ev_aa18_04 zoom=150 xpos=-140 ypos=60
+*: wait time=1500
+
+*: begintrans
+*: bg_w
+*: ev hide
+*: endtrans trans=uni rule=妄想 vague=128 time=400
+*: beginskip
+*: wait time=3000
+*: bg_b fadefaster
+*: wait time=5000
+*: endskip
+
+
+
+
+*: jump storage="40_CC-11-30.txt"
+

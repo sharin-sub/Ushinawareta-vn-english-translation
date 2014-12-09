@@ -1,0 +1,85 @@
+#Subject: 2008.10.1'''
+
+#ifdef RAT_TYPE_EXEC
+#endif
+
+*: initscene
+*: eval exp="f.episode = Rゆい"
+*: シナリオ引用 sto="00_PL-01-30.txt" tag="00_PL-01-33-00" retsto="00_PL-01-33.txt" rettag="ret00"
+:ret00|
+
+#Page-Id: 0
+#Voice-Id: C00009
+【ゆい/？？？】
+「んん…………」
+
+#Page-Id: 1
+緩慢な動きで、少女の[瞼|まぶた]が開かれていく。
+
+*: ev file=&f.PL_01_30_00[3] fadenormal
+
+#Page-Id: 2
+【奏】
+「どうやら気付いたみたいだな」
+
+#Page-Id: 3
+ぼやけた瞳に光が灯ったのを確認し、
+俺は胸をホッと撫でおろした。
+
+#Page-Id: 4
+#Voice-Id: C00010
+【ゆい/？？？】
+「あ、き…………山さん、ですか」
+
+#Page-Id: 5
+【奏】
+「えっ！？　お？」
+
+#Page-Id: 6
+……秋山？　俺！？
+
+#Page-Id: 7
+不意に名前を呼ばれ、俺は戸惑を隠せなかった。
+
+#Page-Id: 8
+#Voice-Id: C00011
+【ゆい/？？？】
+「問題は……ありません。
+　無事お会いすることができましたね」
+
+#Page-Id: 9
+平坦な言葉の中に、ほのかに香る喜びの匂い。
+
+#Page-Id: 10
+#Voice-Id: C00012
+【ゆい/？？？】
+「私をよろしくお願いします……」
+
+#Page-Id: 11
+【奏】
+「いや、あのさ……お前、なにを言って……」
+
+#Page-Id: 12
+見知らぬ少女、心当たりのない言葉。
+
+#Page-Id: 13
+訳の分らないことに、俺は眉をしかめる。
+
+
+#Page-Id: 14
+*: se0018b
+――と、その時、軽い足音が廊下に響き渡った。
+
+
+*: エレベーターホール前・荷物あり 夜 fadenormal
+
+
+*: initscene
+*: eval exp="f.episode = Rゆい"
+*: シナリオ引用 sto="00_PL-01-30.txt" tag="00_PL-01-33-01" retsto="00_PL-01-33.txt" rettag="ret01"
+:ret01|
+
+
+*: jump storage="00_PL-01-43.txt"
+
+

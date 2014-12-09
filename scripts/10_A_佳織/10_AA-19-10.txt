@@ -1,0 +1,164 @@
+#Subject: 2008.10.19
+
+*: initscene
+
+*: アイキャッチ表示 num=12 route=&R佳織
+
+
+
+
+*: 内浜全景 昼 ypos=100 opacity=0 time=0
+*: bg opacity=255 time=2000 accel=-0.01 nowait
+*: bg ypos=-1200 time=38000 accel=-0.01 nowait
+
+*: BGM20
+
+
+#Page-Id: 0
+*: 佳織 制服 ポーズc 腕強 目強笑 口強笑 eyecloseto ギャグなし 顔
+#Voice-Id: A01232
+【佳織】
+「う～～～んっ！
+　気持ちのいい天気だね」
+
+#Page-Id: 1
+【奏】
+「そうだな、来場者数も過去最高になるって話だし、
+　言うことなしだ」
+
+#Page-Id: 2
+*: 佳織 制服 ポーズr 腕中 目苦笑 口強笑 ギャグなし 顔
+#Voice-Id: A01233
+【佳織】
+「まぁ、そうかもね」
+
+#Page-Id: 3
+【奏】
+「微妙な返事だな……」
+
+#Page-Id: 4
+*: 佳織 制服 ポーズr 腕中 目苦笑 口強笑 ギャグなし 顔
+#Voice-Id: A01234
+【佳織】
+「だって、できれば私たちも発表したかったなって」
+
+#Page-Id: 5
+【奏】
+「それは仕方ないだろ。
+　調査に面倒事の片付けじゃ無理に決まってる」
+
+#Page-Id: 6
+*: 佳織 制服 ポーズc 腕中 目苦笑 口強笑 ギャグなし 顔
+#Voice-Id: A01235
+【佳織】
+「うん……」
+
+#Page-Id: 7
+【奏】
+「もっとも、俺は発表なんてなくてよかったけどな」
+
+#Page-Id: 8
+*: 佳織 制服 ポーズl 腕中 目強笑 口強笑 eyecloseto ギャグなし 顔
+#Voice-Id: A01236
+【佳織】
+「ふふっ、面倒だからでしょ」
+
+#Page-Id: 9
+【奏】
+「バカ、違うっての！」
+
+#Page-Id: 10
+*: 佳織 制服 ポーズc 腕強 目苦笑Ｈ 口驚く lipopen ギャグなし 顔
+#Voice-Id: A01237
+【佳織】
+「あっ、ひゃんっ！」
+
+*: 窓消暗転
+*: stopaction
+
+#Page-Id: 11
+*: ev_aa14_01 fadenormal
+#Voice-Id: A01238
+*: 佳織 無
+【佳織】
+「奏……くん？」
+
+#Page-Id: 12
+*: ev_aa14_02 fadenormal
+【奏】
+「発表なんてしてたら、
+　こうして佳織と一緒に過ごせないだろ」
+
+
+#Page-Id: 13
+*: ev_aa14_01 fadenormal
+#Voice-Id: A01239
+【佳織】
+「…………」
+
+#Page-Id: 14
+【奏】
+「みんなはどうか知らないが、俺はお前と――」
+
+#Page-Id: 15
+*: 学校外観 昼 fadenormal
+#Voice-Id: B00585
+【愛理】
+「口より拳でってこと？
+　いいわ、私が相手になってあげる」
+
+#Page-Id: 16
+*: ev_aa14_03 fadenormal
+【奏】
+「…………」
+
+#Page-Id: 17
+#Voice-Id: A01240
+【佳織】
+「愛理ちゃんの声……だね」
+
+#Page-Id: 18
+*: ev_aa14_04 fadenormal
+【奏】
+「ま・た・か。
+　またろくでもないことか――」
+
+#Page-Id: 19
+#Voice-Id: A01241
+【佳織】
+「……行くんでしょ？」
+
+#Page-Id: 20
+*: ev_aa14_03 fadenormal
+【奏】
+「やむを得ないだろ、俺たちの平穏のためだ。
+　ちゃっちゃと片付けてくる」
+
+#Page-Id: 21
+*: ev_aa14_01 fadenormal
+#Voice-Id: A01242
+【佳織】
+「危ないことだけはしないでね」
+
+#Page-Id: 22
+【奏】
+「分かってるよ。
+　速攻で戻ってくるから、いい子で待ってろよ」
+
+#Page-Id: 23
+*: ev_aa14_02 fadenormal
+#Voice-Id: A01243
+【佳織】
+「うん、約束っ！」
+
+*: msgoff
+*: BGM20 stop=5000
+*: wait time=5000
+
+*: 終端
+
+*: jump storage="00_2H-01-aa.txt"
+
+
+
+

@@ -1,0 +1,368 @@
+#Subject: 2022.10.19
+
+*: initscene
+
+*: アイキャッチ表示 num=4 route=&RＬ２
+
+
+
+
+
+*: BGM30
+
+*: ev_xx13_01 fadenormal
+
+*: 奏 無
+*: ケニー 無
+*: 佳織 無
+*: 愛理 無
+*: 凪沙 無
+
+#Page-Id: 0
+【奏】
+「よう、目が覚めたか？」
+
+#Page-Id: 1
+#Voice-Id: C10337
+【ゆい】
+「はい……」
+
+#Page-Id: 2
+【奏】
+「気分はどうだ？」
+
+#Page-Id: 3
+#Voice-Id: C10338
+【ゆい】
+「……良好です」
+
+#Page-Id: 4
+#Voice-Id: B10196
+【愛理】
+「……良好？
+　こういう時は最高って言うものよ」
+
+#Page-Id: 5
+#Voice-Id: C10339
+【ゆい】
+「はい、とても……とても最高です」
+
+#Page-Id: 6
+【奏】
+「そうか……」
+
+#Page-Id: 7
+#Voice-Id: C10340
+【ゆい】
+「でも、一つだけ……」
+
+#Page-Id: 8
+#Voice-Id: B10197
+【愛理】
+「うん、何？」
+
+#Page-Id: 9
+#Voice-Id: C10341
+【ゆい】
+「私は……消滅したのではないのですか？」
+
+#Page-Id: 10
+【奏】
+「誰がそんなことさせるかよ」
+
+#Page-Id: 11
+#Voice-Id: C10342
+【ゆい】
+「まさか……」
+
+#Page-Id: 12
+#Voice-Id: F10077
+【ケニー】
+「時間はかかっちまったけどな」
+
+#Page-Id: 13
+#Voice-Id: C10343
+【ゆい】
+「それじゃあ、みなさんが……」
+
+#Page-Id: 14
+#Voice-Id: A10173
+【佳織】
+「私たちのことは……分かる？」
+
+#Page-Id: 15
+#Voice-Id: C10344
+【ゆい】
+「はい、勿論です」
+
+#Page-Id: 16
+#Voice-Id: D10062
+【凪沙】
+「一緒に過ごした記憶は？」
+
+#Page-Id: 17
+#Voice-Id: C10345
+【ゆい】
+「あります、忘れたくても忘れられません」
+
+#Page-Id: 18
+【奏】
+「そうか……」
+
+#Page-Id: 19
+【奏】
+「じゃあ、俺たちを覚えてたご褒美に、
+　お前に名前をプレゼントしてやるとするか」
+
+#Page-Id: 20
+#Voice-Id: C10346
+【ゆい】
+「はい……」
+
+#Page-Id: 21
+【奏】
+「よし、だったらお前の名前は古川――ゆいだ」
+
+#Page-Id: 22
+【奏】
+「古川は佳織をベースに制作ってことで、
+　佳織のばーちゃんから」
+
+#Page-Id: 23
+#Voice-Id: C10347
+【ゆい】
+「はい……」
+
+#Page-Id: 24
+【奏】
+「ゆいは、俺とお前を結うという意味から」
+
+#Page-Id: 25
+#Voice-Id: C10348
+【ゆい】
+「今度は、佳織さんの心を結う……ではないんですね」
+
+#Page-Id: 26
+【奏】
+「そんな名前をつけたやつのセンスが分からない」
+
+#Page-Id: 27
+#Voice-Id: C10349
+【ゆい】
+「それはあなた自身です」
+
+#Page-Id: 28
+【奏】
+「俺はそんなの知らない」
+
+#Page-Id: 29
+#Voice-Id: C10350
+【ゆい】
+「奏……さん……」
+
+#Page-Id: 30
+【奏】
+「呼び捨てでいい」
+
+#Page-Id: 31
+#Voice-Id: C10351
+【ゆい】
+「はい……」
+
+#Page-Id: 32
+【奏】
+「おかえり、ゆい」
+
+#Page-Id: 33
+#Voice-Id: C10352
+【ゆい】
+「はい、ただいま、奏……」
+
+*: BGM30 stop time=3000
+
+*: se0044
+*: bg_b fadenormal sync
+
+#Page-Id: 34
+どちらからというわけではなく、
+俺たちはそっと抱き合った。
+
+*: 窓消暗転
+
+*: 青空 fadenormal sync
+
+*: 奏 ポーズd ベース まじめ 顔
+*: ケニー  ポーズd ベース まじめ 顔
+*: 佳織  ポーズd ベース まじめ 顔
+*: 愛理  ポーズd ベース まじめ 顔
+*: 凪沙  ポーズd ベース まじめ 顔
+
+
+#Page-Id: 35
+#Voice-Id: B10198
+【愛理】
+「さて、じゃあ私たちは……」
+
+#Page-Id: 36
+#Voice-Id: A10174
+【佳織】
+「そうだね」
+
+#Page-Id: 37
+#Voice-Id: D10063
+【凪沙】
+「ええ、後は任せたわよ」
+
+#Page-Id: 38
+#Voice-Id: C10353
+【ゆい】
+「えっ？」
+
+#Page-Id: 39
+#Voice-Id: F10078
+【ケニー】
+「レディのエスコートはお前の仕事だからな」
+
+#Page-Id: 40
+【奏】
+「おう」
+
+#Page-Id: 41
+*: se0210b fade=80
+俺が力強く答えると、みんなは笑みを浮かべながら、
+それぞれに研究室から出て行った。
+
+*: 研究室 昼 zoom=140 fadenormal sync
+
+#Page-Id: 42
+*: ゆい 素体 ポーズc 腕弱 目悲しむ 口悲しむ ギャグ涙悲 立 中
+#Voice-Id: C10354
+【ゆい】
+「えっと、あの……」
+
+#Page-Id: 43
+【奏】
+「ゆい、出かける準備をしてくれ」
+
+#Page-Id: 44
+*: ゆい 素体 ポーズl 腕弱 目苦笑 口悲しむ ギャグ涙悲 立
+#Voice-Id: C10355
+【ゆい】
+「あ、はい……しかし、どこに行くんですか？」
+
+#Page-Id: 45
+【奏】
+「そんなの、言うまでもないだろ」
+
+#Page-Id: 46
+*: ゆい 素体 ポーズc 腕弱 目驚く 口悲しむ ギャグ涙悲 立
+#Voice-Id: C10356
+【ゆい】
+「……というと？」
+
+*: 窓消暗転
+*: se0045b
+*: wait time=500
+
+#Page-Id: 47
+疑問を口にしつつも、
+ゆいは用意された衣服を身に纏い始めた。
+
+#Page-Id: 48
+当然、こっちはその問いに答えるつもりはない。
+
+#Page-Id: 49
+そして、準備の終わったゆいに手を差し出した。
+
+#Page-Id: 50
+ゆいはその手をしっかりと握りしめる。
+
+#Page-Id: 51
+そこから伝わる体温に、俺はぎゅっと唇を噛み締めた。
+
+#Page-Id: 52
+今日は泣く日じゃない。
+
+#Page-Id: 53
+心の底から、笑う日なんだから――
+
+*: msgoff
+*: begintrans
+*: allchar 消
+*: bg_w fadenormal sync
+*: endtrans fadenormal
+
+*: BGM1A
+*: wait time=1500
+
+*: ev_cc26_01 fadenormal sync
+
+#Page-Id: 54
+#Voice-Id: C10357
+【ゆい】
+「これは……」
+
+#Page-Id: 55
+*: 奏 無
+【奏】
+「ようこそ、内浜学園の最後の文化祭へ」
+
+#Page-Id: 56
+*: ev_cc26_02 fadenormal sync
+#Voice-Id: C10358
+【ゆい】
+「まさか、どうして……」
+
+#Page-Id: 57
+【奏】
+「１４年振りの開催だ」
+
+#Page-Id: 58
+#Voice-Id: C10359
+【ゆい】
+「そんなことまで――」
+
+#Page-Id: 59
+【奏】
+「止まった時間を動かすためだ」
+
+#Page-Id: 60
+*: ev_cc26_03 fadenormal sync
+#Voice-Id: C10360
+【ゆい】
+「奏……」
+
+#Page-Id: 61
+【奏】
+「さぁ、楽しもうぜ、祭りはこれからだぞ」
+
+#Page-Id: 62
+#Voice-Id: C10361
+【ゆい】
+「…………」
+
+#Page-Id: 63
+【奏】
+「ゆい、いい返事は？」
+
+#Page-Id: 64
+*: ev_cc26_04 fadenormal sync
+#Voice-Id: C10362
+【ゆい】
+「はいっ！」
+
+
+*: clickskip enable=false
+
+*: msgoff fadeslow
+*: ev_cc26_05 fadenormal nosync
+*: wait time=1000
+*: ev_fin fadeslow sync
+*: wait time=3000
+*: bg_w fadeslow sync
+*: wait time=3000
+
+*: clickskip enable=true
+
+*: jump storage="00_2H-01-l2.txt"
+
